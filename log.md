@@ -8,16 +8,15 @@
 
 **Thoughts:** I was learning HTML5 again, from scratch, I need to practice this again to feel like I am at least confortable at it.
 
-**Link to work:** [petshop-site](https://github.com/euougo/petshop-site/commit/0e49924371a43cde6e3c44c944f60e99846d4970)
+**Link to work:** 
+1. [petshop-site](https://github.com/euougo/petshop-site/commit/0e49924371a43cde6e3c44c944f60e99846d4970)
 
-<!--
-### Day 1: June 27, Monday
+### Day 1: December 8, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Reviewed more HTML tags and Properties. Started to implements of the website main menu, blog and store.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today I've learned a lot more than yesterday. The workflow was easier too.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
+1. [petshop-site](https://github.com/euougo/petshop-site/commit/ef9b0eedb556a18d917d9cf6061a190386e647a2)
+
