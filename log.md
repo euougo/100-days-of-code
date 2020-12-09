@@ -20,3 +20,12 @@
 **Link(s) to work**
 1. [petshop-site](https://github.com/euougo/petshop-site/commit/ef9b0eedb556a18d917d9cf6061a190386e647a2)
 
+
+### Day 2: December 9, 2020
+
+**Today's Progress**: I've Defined the last three sections of the site, after that I've finished the initial HTML of the website our story, about and footer.
+
+**Thoughts** Most of the time I spent reviewing the code, looking for inconsistency. Started to review the CSS for tomorrow.
+
+**Link(s) to work**
+1. [petshop-site](https://github.com/euougo/petshop-site/commit/01e4ac03ea3c332b63ff9c6aca469e865fcb350d)
