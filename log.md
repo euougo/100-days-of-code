@@ -29,3 +29,9 @@
 
 **Link(s) to work**
 1. [petshop-site](https://github.com/euougo/petshop-site/commit/01e4ac03ea3c332b63ff9c6aca469e865fcb350d)
+
+### Day 3: December 10, 2020
+
+**Today's Progress**: I've studied Basic HTML and HTML5, Basic CSS from FreeCodeCamp a little and played on the project.
+
+**Thoughts** Today my focus was a little bit off, so I decided to try different thinghs, learned CSS basic things again was good.
