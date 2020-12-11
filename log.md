@@ -20,7 +20,6 @@
 **Link(s) to work**
 1. [petshop-site](https://github.com/euougo/petshop-site/commit/ef9b0eedb556a18d917d9cf6061a190386e647a2)
 
-
 ### Day 2: December 9, 2020
 
 **Today's Progress**: I've Defined the last three sections of the site, after that I've finished the initial HTML of the website our story, about and footer.
@@ -35,3 +34,12 @@
 **Today's Progress**: I've studied Basic HTML and HTML5, Basic CSS from FreeCodeCamp a little and played on the project.
 
 **Thoughts** Today my focus was a little bit off, so I decided to try different thinghs, learned CSS basic things again was good.
+
+### Day 4: December 11, 2020
+
+**Today's Progress**: Today I have practiced more CSS, with selectors, display-flex, media queries, colors, size. I was Learning more from FreeCodeCamp
+
+**Thoughts** Responsive design theory is not that hard, as long as you have the design and know how they must show on screen.
+
+**Link(s) to work**
+1. [petshop-site/tests]https://github.com/euougo/petshop-site/commit/70227571f2e1926f8349fef70f0d049706851587
