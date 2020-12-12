@@ -43,3 +43,12 @@
 
 **Link(s) to work**
 1. [petshop-site/tests]https://github.com/euougo/petshop-site/commit/70227571f2e1926f8349fef70f0d049706851587
+
+### Day 5: December 12, 2020
+
+**Today's Progress**: Today I have played with CSS on main header and first site CTA.
+
+**Thoughts** I liked the result of my first header and CTA version of the project. I have to study a better color pallet.
+
+**Link(s) to work**
+1. [petshop-site]https://github.com/euougo/petshop-site/commit/5db10d7d0d26edf6ff7b44438e9fbe4a04611e14
