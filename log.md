@@ -52,3 +52,13 @@
 
 **Link(s) to work**
 1. [petshop-site]https://github.com/euougo/petshop-site/commit/5db10d7d0d26edf6ff7b44438e9fbe4a04611e14
+
+### Day 6: December 13, 2020
+
+**Today's Progress**: Today I have studied from FreeCodeCamp Visual Design, Applied Accessibility and Responsive Principles.
+
+**Thoughts** Was an week since I've started this challenge, I feel that I'm more motivated than before.
+
+
+
+
