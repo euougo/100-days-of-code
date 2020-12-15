@@ -65,4 +65,8 @@
 
 **Thoughts** CSS Flexbox and Grid are a little bit confuse, need to apply tomorrow in my project.
 
+### Day 8: December 15, 2020
 
+**Today's Progress**: Have studied from CSS Animations and Gradients.
+
+**Thoughts** I feel much more confident with CSS I less than a week.
