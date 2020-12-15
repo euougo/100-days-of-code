@@ -59,6 +59,10 @@
 
 **Thoughts** Was an week since I've started this challenge, I feel that I'm more motivated than before.
 
+### Day 7: December 14, 2020
 
+**Today's Progress**: Have studied from FreeCodeCamp CSS Flexbox and CSS Grid.
+
+**Thoughts** CSS Flexbox and Grid are a little bit confuse, need to apply tomorrow in my project.
 
 
