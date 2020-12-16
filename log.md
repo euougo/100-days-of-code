@@ -70,3 +70,12 @@
 **Today's Progress**: Have studied from CSS Animations and Gradients.
 
 **Thoughts** I feel much more confident with CSS I less than a week.
+
+### Day 9: December 16, 2020
+
+**Today's Progress**: Today I was doing the first project from FreeCodeCamp - Responsive Web Design Certification. I've Build a Tribute Page for Bob Marley with HTML and CSS. I've started the second too, only need to finish the CSS.
+
+**Thoughts** I liked the result of today's progress. Is very good to put everything I'm learning in practice and now I can stay practicing almost all day long, because I am motivated.
+
+**Link(s) to work**
+1. [Tribute-Page]https://codepen.io/euougo/full/bGwWqXL
