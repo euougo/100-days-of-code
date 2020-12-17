@@ -79,3 +79,13 @@
 
 **Link(s) to work**
 1. [Tribute-Page]https://codepen.io/euougo/full/bGwWqXL
+
+### Day 10: December 17, 2020
+
+**Today's Progress**: Today I was finishing the second and third projects from FreeCodeCamp - Responsive Web Design Certification. I've Build a Survey Form for a Gym and a Landing Page for a Skate Brand with HTML and CSS.
+
+**Thoughts**: Every day bugs are now not that bad, I feel that I can solve most of them because I am motivated to finish the projects.
+
+**Link(s) to work**
+1. [Survey-Form] https://codepen.io/euougo/full/yLabXMJ
+2. [Landing-Page] https://codepen.io/euougo/full/WNGjPYP
