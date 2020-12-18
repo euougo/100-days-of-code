@@ -89,3 +89,18 @@
 **Link(s) to work**
 1. [Survey-Form] https://codepen.io/euougo/full/yLabXMJ
 2. [Landing-Page] https://codepen.io/euougo/full/WNGjPYP
+
+### Day 11: December 18, 2020
+
+**Today's Progress**: Today I was working on the fourth project of from FreeCodeCamp - Responsive Web Design Certification. I'm building a technical documentation page.
+
+**Thoughts**: My Low Blood pressure made my day very hard to be productive, I have to take care of my health better next times.
+
+**Link(s) to work**
+1. [Technical Documentation Page] https://codepen.io/euougo/full/ExgXLxo
+
+
+
+
+
+
