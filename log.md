@@ -99,7 +99,11 @@
 **Link(s) to work**
 1. [Technical Documentation Page] https://codepen.io/euougo/full/ExgXLxo
 
+### Day 12: December 19, 2020
 
+**Today's Progress**: Today I was studying the Basics of JavaScript from FreeCodeCamp - JavaScript Algorithms and Data Structures Certification.
+
+**Thoughts**: Starting again from the basics showed me that I already know a lot of things, I feel that most of my doubts are from my lack of practice.
 
 
 
