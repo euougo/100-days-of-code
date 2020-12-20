@@ -105,6 +105,10 @@
 
 **Thoughts**: Starting again from the basics showed me that I already know a lot of things, I feel that most of my doubts are from my lack of practice.
 
+### Day 13: December 20, 2020
 
+**Today's Progress**: Today I was studying JavaScript arrays, functions and OO.
+
+**Thoughts**: Coming from Java this beginning of Javascript is very easy.
 
 
