@@ -111,4 +111,8 @@
 
 **Thoughts**: Coming from Java this beginning of Javascript is very easy.
 
+### Day 14: December 21, 2020
 
+**Today's Progress**: Today I was studying more Object Oriented Javascript and ES6.
+
+**Thoughts**: Modern Javascript is a bit confusing at right now, I think that some points does not make sense.
