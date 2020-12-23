@@ -122,3 +122,9 @@
 **Today's Progress**: Today I was studying more ES6 features, let, const, read-only variables, arrow functions, rest and spread operators, destructor assignment...
 
 **Thoughts**: These things makes more sense today, but I realy need to put it on a real project to be confident that I've catched.
+
+### Day 16: December 23, 2020
+
+**Today's Progress**: Today I was studying more ES6 features, getters, setters, module script, export, import code block, import everything, import a default export, promises and a bit of regular expressions.
+
+**Thoughts**: I've had a bit of regular expressions in another languages, but today it was easier than I thought.
