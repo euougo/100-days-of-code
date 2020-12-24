@@ -128,3 +128,9 @@
 **Today's Progress**: Today I was studying more ES6 features, getters, setters, module script, export, import code block, import everything, import a default export, promises and a bit of regular expressions.
 
 **Thoughts**: I've had a bit of regular expressions in another languages, but today it was easier than I thought.
+
+### Day 17: December 24, 2020
+
+**Today's Progress**: Today I was studying a lot of regular expressions, match literal strings, ignore case, find more than first match, letters, numbers, single characters...
+
+**Thoughts**: I will stay with my family today, so I've decided to study the minimum 1 hour at morning.
