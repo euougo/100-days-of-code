@@ -134,3 +134,9 @@
 **Today's Progress**: Today I was studying a lot of regular expressions, match literal strings, ignore case, find more than first match, letters, numbers, single characters...
 
 **Thoughts**: I will stay with my family today, so I've decided to study the minimum 1 hour at morning.
+
+### Day 18: December 25, 2020
+
+**Today's Progress**: Today I was studying Debugging Javascript, misspelled variable and function names, unclosed parentheses, brackets, braces, quotes and a bit of basic data structures, arrays basic functions.
+
+**Thoughts**: Basic debugging was easy, data structures seems to be easy too.
