@@ -140,3 +140,9 @@
 **Today's Progress**: Today I was studying Debugging Javascript, misspelled variable and function names, unclosed parentheses, brackets, braces, quotes and a bit of basic data structures, arrays basic functions.
 
 **Thoughts**: Basic debugging was easy, data structures seems to be easy too.
+
+### Day 19: December 26, 2020
+
+**Today's Progress**: Today I was playing with array access and manipulation, such as add, remove, copy, combine... 
+
+**Thoughts**: Basic Data Structure with Arrays at FreeCodeCamp showed me that there are a lot of things that I can do with simple basic language features.
