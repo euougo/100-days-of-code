@@ -146,3 +146,9 @@
 **Today's Progress**: Today I was playing with array access and manipulation, such as add, remove, copy, combine... 
 
 **Thoughts**: Basic Data Structure with Arrays at FreeCodeCamp showed me that there are a lot of things that I can do with simple basic language features.
+
+### Day 20: December 27, 2020
+
+**Today's Progress**: Today I've completed the Functional Programming with JavaScript at FreeCodeCamp. 
+
+**Thoughts**: As I "have" to be programming every day, I feel that the time is going too much faster than before.
