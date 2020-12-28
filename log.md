@@ -152,3 +152,9 @@
 **Today's Progress**: Today I've completed the Functional Programming with JavaScript at FreeCodeCamp. 
 
 **Thoughts**: As I "have" to be programming every day, I feel that the time is going too much faster than before.
+
+### Day 21: December 28, 2020
+
+**Today's Progress**: Today I've Bootstrap, is very famous Front End Library, I did tests and exercises at FreeCodeCamp. 
+
+**Thoughts**: Like I did with the fundamentals of the front, made tests with Bootstrap to know better in practice.
