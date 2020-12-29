@@ -155,6 +155,12 @@
 
 ### Day 21: December 28, 2020
 
-**Today's Progress**: Today I've Bootstrap, is very famous Front End Library, I did tests and exercises at FreeCodeCamp. 
+**Today's Progress**: Today I've worked with Bootstrap, is very famous Front End Library, I did tests and exercises at FreeCodeCamp. 
 
 **Thoughts**: Like I did with the fundamentals of the front, made tests with Bootstrap to know better in practice.
+
+### Day 22: December 29, 2020
+
+**Today's Progress**: Today I've learned jQuery at FreeCodeCamp. 
+
+**Thoughts**: Learning front is very fluid, but I need practice.
