@@ -164,3 +164,9 @@
 **Today's Progress**: Today I've learned jQuery at FreeCodeCamp. 
 
 **Thoughts**: Learning front is very fluid, but I need practice.
+
+### Day 23: December 30, 2020
+
+**Today's Progress**: Today I've learned Sass at FreeCodeCamp and started the foundations module at The Odin Project. 
+
+**Thoughts**: I feel that I am a little more focused every day, as long I keep programming every day.
