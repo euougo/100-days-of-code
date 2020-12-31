@@ -170,3 +170,9 @@
 **Today's Progress**: Today I've learned Sass at FreeCodeCamp and started the foundations module at The Odin Project. 
 
 **Thoughts**: I feel that I am a little more focused every day, as long I keep programming every day.
+
+### Day 24: December 31, 2020
+
+**Today's Progress**: Today I've started React at FreeCodeCamp. 
+
+**Thoughts**: Every day I learn things faster than before.
