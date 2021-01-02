@@ -182,3 +182,9 @@
 **Today's Progress**: Today I've studied a little more of React at FreeCodeCamp. I've also started my YouTube channel with the content that I've been learning from FreeCodeCamp and The Odin Project. Basic HTML and HTML5. 
 
 **Thoughts**: Every day I'm achieving new levels, I feel that it was a big challenge.
+
+### Day 26: January 2, 2021
+
+**Today's Progress**: Today I've studied React Components and props at FreeCodeCamp. 
+
+**Thoughts**: Today I've made a lot more with less effort, but I've made much more mistakes.
