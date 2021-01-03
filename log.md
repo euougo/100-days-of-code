@@ -188,3 +188,9 @@
 **Today's Progress**: Today I've studied React Components and props at FreeCodeCamp. 
 
 **Thoughts**: Today I've made a lot more with less effort, but I've made much more mistakes.
+
+### Day 27: January 3, 2021
+
+**Today's Progress**: Today I've started to study Redux at FreeCodeCamp. 
+
+**Thoughts**: I have a lot to improve, repeat is the key to don't feel "blocked".
