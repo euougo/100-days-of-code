@@ -194,3 +194,9 @@
 **Today's Progress**: Today I've started to study Redux at FreeCodeCamp. 
 
 **Thoughts**: I have a lot to improve, repeat is the key to don't feel "blocked".
+
+### Day 28: January 4, 2021
+
+**Today's Progress**: Today I've started to study React and Redux  at FreeCodeCamp. 
+
+**Thoughts**: Today I have worked more than 4 hours on a React Video Course at FreeCodeCamp, before start this challenge my mind couldn't focuse on something like this.
