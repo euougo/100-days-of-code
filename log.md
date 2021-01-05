@@ -200,3 +200,9 @@
 **Today's Progress**: Today I've started to study React and Redux  at FreeCodeCamp. 
 
 **Thoughts**: Today I have worked more than 4 hours on a React Video Course at FreeCodeCamp, before start this challenge my mind couldn't focuse on something like this.
+
+### Day 29: January 5, 2021
+
+**Today's Progress**: Today I've worked React and Redux example of https://react-redux.js.org/introduction/basic-tutorial. 
+
+**Thoughts**: I think that I have to play more on this before move on.
