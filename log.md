@@ -206,3 +206,9 @@
 **Today's Progress**: Today I've worked React and Redux example of https://react-redux.js.org/introduction/basic-tutorial. 
 
 **Thoughts**: I think that I have to play more on this before move on.
+
+### Day 30: January 6, 2021
+
+**Today's Progress**: Today I've worked on Random Quote Machine project, most I've used HTML, CSS and Javascript. 
+
+**Thoughts**: I'm learning to integrate an external source of quotes with vanilla JS.
