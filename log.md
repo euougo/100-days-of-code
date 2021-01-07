@@ -212,3 +212,9 @@
 **Today's Progress**: Today I've worked on Random Quote Machine project, most I've used HTML, CSS and Javascript. 
 
 **Thoughts**: I'm learning to integrate an external source of quotes with vanilla JS.
+
+### Day 31: January 7, 2021
+
+**Today's Progress**: Today I've worked on Random Quote Machine project, most I've used HTML, CSS and Javascript. 
+
+**Thoughts**: Random results are only funny to debug when it is working as expected.
