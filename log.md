@@ -218,3 +218,16 @@
 **Today's Progress**: Today I've worked on Random Quote Machine project, most I've used HTML, CSS and Javascript. 
 
 **Thoughts**: Random results are only funny to debug when it is working as expected.
+
+### Day 31: January 7, 2021
+
+**Today's Progress**: Today I've worked on Random Quote Machine project, most I've used HTML, CSS and Javascript. 
+
+**Thoughts**: Random results are only funny to debug when it is working as expected.
+
+### Day 32: January 8, 2021
+
+**Today's Progress**: Today I've worked on A Markdown Previewer project From FreeCodeCamp, most I've used HTML, CSS and Javascript again. 
+
+**Thoughts**: Some days I think that I could did more but some things doesn't work as expected.
+
