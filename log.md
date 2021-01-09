@@ -231,3 +231,9 @@
 
 **Thoughts**: Some days I think that I could did more but some things doesn't work as expected.
 
+### Day 33: January 9, 2021
+
+**Today's Progress**: Today I've Reviewed a ReactJS and Node.js Workshop, most of the concepts of SPA and Front-end x Back-end responsabilities. 
+
+**Thoughts**: I feel much more excited to work on small projects that are real, but I really understood the importance of basic and fundamental concepts, these small projects are powerfull.
+
