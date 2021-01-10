@@ -237,3 +237,8 @@
 
 **Thoughts**: I feel much more excited to work on small projects that are real, but I really understood the importance of basic and fundamental concepts, these small projects are powerfull.
 
+### Day 34: January 10, 2021
+
+**Today's Progress**: Today I was repeating the code from yesterday Workshop, searching for the things that I didn't understood completely. 
+
+**Thoughts**: Some days I feel that I catch that I was studying, but another day I doesn't remember anything, have to read again almost from scratch...
