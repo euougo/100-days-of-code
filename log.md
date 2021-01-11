@@ -242,3 +242,9 @@
 **Today's Progress**: Today I was repeating the code from yesterday Workshop, searching for the things that I didn't understood completely. 
 
 **Thoughts**: Some days I feel that I catch that I was studying, but another day I doesn't remember anything, have to read again almost from scratch...
+
+### Day 35: January 11, 2021
+
+**Today's Progress**: Today I was playing with Node.js with express, learning about route functions, route paths and HTTP verbs. 
+
+**Thoughts**: Back-end development is more complex than front-end in my opinion, there are more obscure topics to care of.
