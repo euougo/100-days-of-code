@@ -248,3 +248,9 @@
 **Today's Progress**: Today I was playing with Node.js with express, learning about route functions, route paths and HTTP verbs. 
 
 **Thoughts**: Back-end development is more complex than front-end in my opinion, there are more obscure topics to care of.
+
+### Day 36: January 12, 2021
+
+**Today's Progress**: Today I was studying with Node.js, Knex and SQLite. 
+
+**Thoughts**: I was struggling with my pc today, but I did what I need to.
