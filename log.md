@@ -254,3 +254,9 @@
 **Today's Progress**: Today I was studying with Node.js, Knex and SQLite. 
 
 **Thoughts**: I was struggling with my pc today, but I did what I need to.
+
+### Day 37: January 13, 2021
+
+**Today's Progress**: Today I was studying more especifically about KnexJS, migrations, methods of the schema builder and query builder. 
+
+**Thoughts**: Today was a very productive day, I'm really happy.
