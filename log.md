@@ -260,3 +260,9 @@
 **Today's Progress**: Today I was studying more especifically about KnexJS, migrations, methods of the schema builder and query builder. 
 
 **Thoughts**: Today was a very productive day, I'm really happy.
+
+### Day 38: January 14, 2021
+
+**Today's Progress**: Today I was studying about ExpressJS, Routing and Middlewares, there are different types of Middlewares and I've focused in Application-level and Error-handling.  
+
+**Thoughts**: One hour every day at begining made the process soft, but now I really feel stronger than ever
