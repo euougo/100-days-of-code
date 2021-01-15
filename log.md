@@ -266,3 +266,9 @@
 **Today's Progress**: Today I was studying about ExpressJS, Routing and Middlewares, there are different types of Middlewares and I've focused in Application-level and Error-handling.  
 
 **Thoughts**: One hour every day at begining made the process soft, but now I really feel stronger than ever
+
+### Day 39: January 15, 2021
+
+**Today's Progress**: Today I was learning about React Native and trying to put a basic API to serve it.    
+
+**Thoughts**: I've decided to don't use Expo right now to see how it works with the standard Android SDK.
