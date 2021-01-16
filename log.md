@@ -269,6 +269,12 @@
 
 ### Day 39: January 15, 2021
 
-**Today's Progress**: Today I was learning about React Native and trying to put a basic API to serve it.    
+**Today's Progress**: Today I was learning about React Native and trying to put a basic API to serve it. 
 
 **Thoughts**: I've decided to don't use Expo right now to see how it works with the standard Android SDK.
+
+### Day 40: January 16, 2021
+
+**Today's Progress**: Today I was learning about React Native at docs, exploring some components and aplying style to it.
+
+**Thoughts**: React Native is easier when you already know ReactJS.
