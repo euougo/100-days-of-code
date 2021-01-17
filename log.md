@@ -278,3 +278,9 @@
 **Today's Progress**: Today I was learning about React Native at docs, exploring some components and aplying style to it.
 
 **Thoughts**: React Native is easier when you already know ReactJS.
+
+### Day 41: January 17, 2021
+
+**Today's Progress**: Today I come back to FreeCodeCamp to review ES6 and Regular Expressions.
+
+**Thoughts**: In order to use new Libraries Like React, modern javascript is totally required.
