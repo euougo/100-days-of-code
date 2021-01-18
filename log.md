@@ -284,3 +284,9 @@
 **Today's Progress**: Today I come back to FreeCodeCamp to review ES6 and Regular Expressions.
 
 **Thoughts**: In order to use new Libraries Like React, modern javascript is totally required.
+
+### Day 42: January 18, 2021
+
+**Today's Progress**: Today I was Building a Quiz App with React from a FreeCodeCamp YouTube Channel Tutorial.
+
+**Thoughts**: It were just a copy and paste code, but his explanation connected the points.
