@@ -290,3 +290,9 @@
 **Today's Progress**: Today I was Building a Quiz App with React from a FreeCodeCamp YouTube Channel Tutorial.
 
 **Thoughts**: It were just a copy and paste code, but his explanation connected the points.
+
+### Day 43: January 19, 2021
+
+**Today's Progress**: Today I was reading Objects section of JavaScript.info, making some notes and testing code on console.
+
+**Thoughts**: I think that I doesn't fully understand JS Object sometimes.
