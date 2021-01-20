@@ -293,6 +293,12 @@
 
 ### Day 43: January 19, 2021
 
-**Today's Progress**: Today I was reading Objects section of JavaScript.info, making some notes and testing code on console.
+**Today's Progress**: Today I was reading Objects section of JavaScript.info, making some notes and testing code on console. 
 
 **Thoughts**: I think that I doesn't fully understand JS Object sometimes.
+
+### Day 44: January 20, 2021
+
+**Today's Progress**: Today I was reading Data Types, WeakMap, WeakSet, Object.keys, values, entries, Destructuring assignment at JavaScript.info, making some notes and testing code on console.
+
+**Thoughts**: Hard work on the basics makes everything easier
