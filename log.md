@@ -302,3 +302,9 @@
 **Today's Progress**: Today I was reading Data Types, WeakMap, WeakSet, Object.keys, values, entries, Destructuring assignment at JavaScript.info, making some notes and testing code on console.
 
 **Thoughts**: Hard work on the basics makes everything easier
+
+### Day 45: January 21, 2021
+
+**Today's Progress**: Today I was reading recursion and stack, rest and spread syntax, variable scope, closure at JavaScript.info.
+
+**Thoughts**: Very hard day but I am making everything.
