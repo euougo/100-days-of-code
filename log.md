@@ -314,3 +314,9 @@
 **Today's Progress**: I decided to foccus on Node.js and ReactJS for the rest of the challenge. I started today to watch Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js) at FreeCodeCamp YouTube Channel.
 
 **Thoughts**: I'm almost in the middle of the challenge and my habits have changed a lot, I have so much to improve but, I made so much with baby steps, now I'm feeling that I can make much more.
+
+### Day 47: January 23, 2021
+
+**Today's Progress**: Today I was reading about Express/Node introduction at MDN Web Docs.
+
+**Thoughts**: I think I can develop anything in this stack.
