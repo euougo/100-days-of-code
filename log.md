@@ -320,3 +320,10 @@
 **Today's Progress**: Today I was reading about Express/Node introduction at MDN Web Docs.
 
 **Thoughts**: I think I can develop anything in this stack.
+
+
+### Day 48: January 24, 2021
+
+**Today's Progress**: Today was making an integration with an backend node with a front in reactjs, used cors.
+
+**Thoughts**: These days are very hard, most of the day I am fighting with my pc...
