@@ -332,3 +332,9 @@
 **Today's Progress**: Today I was experimenting other cors configuration options, also cookie-parser.
 
 **Thoughts**: I will spend more time trying the things, feeling better about what I am doing.
+
+### Day 50: January 26, 2021
+
+**Today's Progress**: Today was trying to implement to upload file by drag and drop with react-dropzone.
+
+**Thoughts**: It is a react hook very good for learn more about hooks.
