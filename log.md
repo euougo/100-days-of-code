@@ -338,3 +338,9 @@
 **Today's Progress**: Today was trying to implement to upload file by drag and drop with react-dropzone.
 
 **Thoughts**: It is a react hook very good for learn more about hooks.
+
+### Day 51: January 27, 2021
+
+**Today's Progress**: Today I was experimenting data grid with react-hooks-grid.
+
+**Thoughts**: My mind today was full of bad thoughts, but I keep going.
