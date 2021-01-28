@@ -344,3 +344,9 @@
 **Today's Progress**: Today I was experimenting data grid with react-hooks-grid.
 
 **Thoughts**: My mind today was full of bad thoughts, but I keep going.
+
+### Day 52: January 28, 2021
+
+**Today's Progress**: Today I was implementing an upload file functionality with react-files-hooks.
+
+**Thoughts**: After some experimentation, hooks makes much more sense.
