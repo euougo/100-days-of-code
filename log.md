@@ -350,3 +350,9 @@
 **Today's Progress**: Today I was implementing an upload file functionality with react-files-hooks.
 
 **Thoughts**: After some experimentation, hooks makes much more sense.
+
+### Day 53: January 29, 2021
+
+**Today's Progress**: Today I was learning about nunjucks.
+
+**Thoughts**: Good day, stay strong.
