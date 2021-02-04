@@ -380,3 +380,9 @@
 **Today's Progress**: Today I was using Material-UI react framework.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 58: February 3, 2021
+
+**Today's Progress**: Good night, today I was trying to read .xlsx files with Node.js, I was using read-excel-file package. Maybe tomorrow I'll try to insert in a db.
+
+**Thoughts**: Good day, stay strong.
