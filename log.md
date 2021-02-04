@@ -356,3 +356,9 @@
 **Today's Progress**: Today I was learning about nunjucks.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 54: January 30, 2021
+
+**Today's Progress**: Today I was learning about nunjucks.
+
+**Thoughts**: Good day, stay strong.
