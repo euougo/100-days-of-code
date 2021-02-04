@@ -368,3 +368,9 @@
 **Today's Progress**: Good afternoon, today I've played with react bootstrap. In the past I used to use "traditional" Bootstrap with jQuery in front.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 56: February 1, 2021
+
+**Today's Progress**: Good night, more tests with react-bootstrap today, in special forms.
+
+**Thoughts**: Good day, stay strong.
