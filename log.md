@@ -362,3 +362,9 @@
 **Today's Progress**: Today I was learning about nunjucks.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 55: January 31, 2021
+
+**Today's Progress**: Good afternoon, today I've played with react bootstrap. In the past I used to use "traditional" Bootstrap with jQuery in front.
+
+**Thoughts**: Good day, stay strong.
