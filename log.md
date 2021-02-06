@@ -392,3 +392,9 @@
 **Today's Progress**: Good night, react native hello world not working today. Maybe tomorrow.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 60: February 5, 2021
+
+**Today's Progress**: Good night, my yesterday's hello world problems was fixed with correct environment variables. Today I was working with react native elements.
+
+**Thoughts**: Good day, stay strong.
