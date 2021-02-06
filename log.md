@@ -398,3 +398,9 @@
 **Today's Progress**: Good night, my yesterday's hello world problems was fixed with correct environment variables. Today I was working with react native elements.
 
 **Thoughts**: Good day, stay strong.
+
+### Day 61: February 6, 2021
+
+**Today's Progress**: Good night, today I was playing with react router native.
+
+**Thoughts**: Good day, stay strong.
