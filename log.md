@@ -435,6 +435,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 67: February 12, 2021
+
+**Today's Progress**: Today I was using data-dashboard.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
