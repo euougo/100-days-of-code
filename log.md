@@ -459,6 +459,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 71: February 16, 2021
+
+**Today's Progress**: Today I was learning about Image Component and Image Optimization features of Next.js.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
