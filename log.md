@@ -453,6 +453,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 70: February 15, 2021
+
+**Today's Progress**: Today I was studying sequelize model basics.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
