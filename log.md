@@ -465,6 +465,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 72: February 17, 2021
+
+**Today's Progress**: Today I was pretty much reading/copy/paste GraphQL learn documentation first concepts.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
