@@ -519,6 +519,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 80: February 25, 2021
+
+**Today's Progress**: Good night, today I was reviewing jQuery.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
