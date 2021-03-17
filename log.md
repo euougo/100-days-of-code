@@ -531,6 +531,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 82: February 27, 2021
+
+**Today's Progress**: Today I was reading about how to create a package for composer/packagist.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
