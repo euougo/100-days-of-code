@@ -477,6 +477,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 74: February 19, 2021
+
+**Today's Progress**: Today I was reading schemas and types in GraphQL learn documentation.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
