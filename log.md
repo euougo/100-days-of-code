@@ -447,6 +447,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 69: February 14, 2021
+
+**Today's Progress**: Today I was learning how to use NGINX to load balance HTTP and HTTPS traffic across a pool of Node.js application servers from NGINX docs tutorial.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
