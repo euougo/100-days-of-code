@@ -543,6 +543,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 84: March 1, 2021
+
+**Today's Progress**: Today I was learning how to map mouse position in css.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
