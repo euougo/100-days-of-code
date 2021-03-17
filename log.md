@@ -411,6 +411,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 63: February 8, 2021
+
+**Today's Progress**: Good night! Today I was learning about e tests with jest.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
