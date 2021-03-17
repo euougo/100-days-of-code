@@ -483,6 +483,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 75: February 20, 2021
+
+**Today's Progress**: Today I was trying to use the basics of GraphQL on my learning project.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
