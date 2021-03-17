@@ -495,6 +495,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 77: February 22, 2021
+
+**Today's Progress**: Today I have been learning to use Validation in GraphQL.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
