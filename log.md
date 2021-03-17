@@ -525,6 +525,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 81: February 26, 2021
+
+**Today's Progress**: Good night, today I was reading and doing the examples of quick start section of CakePHP documentation. It was the first time I play around with this framework and I could follow without any difficulty. Great intro documentation!
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
