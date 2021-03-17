@@ -417,6 +417,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 64: February 9, 2021
+
+**Today's Progress**: Good night, today I was learning to make tests in a Typescript project, you have to start with babel config for jest first, but in general I found jest docs very intuitive and clear.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
