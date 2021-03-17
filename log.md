@@ -423,6 +423,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 65: February 10, 2021
+
+**Today's Progress**: Today I was learning about thumbnail manipulation with node- thumbnail-manager.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
