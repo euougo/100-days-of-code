@@ -549,6 +549,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 85: March 2, 2021
+
+**Today's Progress**: Good Afternoon, today I was watching a php mvc course ate FreeCodeCamp YouTube Channel.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
