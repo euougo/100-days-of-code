@@ -507,6 +507,18 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 79: February 24, 2021
+
+**Today's Progress**: Just a review of PHP documentation, predefined interfaces and classes:
+- Traversable
+- Iterator
+- IteratorAggregate
+- Throwable
+- ArrayAccess
+- Serializable
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
