@@ -429,6 +429,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 66: February 11, 2021
+
+**Today's Progress**: Today I was trying to store data using better-sqlite3.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
