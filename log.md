@@ -489,6 +489,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 76: February 21, 2021
+
+**Today's Progress**: I spent most of the day trying to make a simple CRUD in PHP with Maria DB.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
