@@ -441,6 +441,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 68: February 13, 2021
+
+**Today's Progress**: Today I was studying axios.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
