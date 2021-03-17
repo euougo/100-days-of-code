@@ -537,6 +537,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 83: February 28, 2021
+
+**Today's Progress**: Today I was learning about http protocol at Mozilla.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
