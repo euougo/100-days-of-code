@@ -561,6 +561,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 87: March 4, 2021
+
+**Today's Progress**: Started Full Stack JavaScript path at The Odin's Project!
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
