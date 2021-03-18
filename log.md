@@ -555,6 +555,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 86: March 3, 2021
+
+**Today's Progress**: Good Afternoon, reviewing and refactoring yesterday's code.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
