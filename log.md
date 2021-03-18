@@ -639,6 +639,14 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 100: March 17, 2021
+
+**Today's Progress**: It's the last day of this challenge and I'm very grateful for bring me back to coding! <3
+
+Today I was following the tutorial "How to generate ReadMe badges with Express by Ben Gubler"
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
