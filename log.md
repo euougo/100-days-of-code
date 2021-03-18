@@ -567,6 +567,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 88: March 5, 2021
+
+**Today's Progress**: Did some Basic JavaScript exercises of JavaScript path at The Odin's Project!
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
