@@ -573,6 +573,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 89: March 6, 2021
+
+**Today's Progress**: Today I was learning how to use postman to test an API.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
