@@ -597,6 +597,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 93: March 10, 2021
+
+**Today's Progress**: Today I was reading more about react conditional rendering and what I really enjoyied is the level of abstraction and control that you can achieve.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
