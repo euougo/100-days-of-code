@@ -633,6 +633,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 99: March 16, 2021
+
+**Today's Progress**: Learning to use squirrelly.js with express.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
