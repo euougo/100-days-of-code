@@ -609,6 +609,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 95: March 12, 2021
+
+**Today's Progress**: Today I was learning how to use PassportJS to work JWT.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
