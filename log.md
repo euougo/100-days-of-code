@@ -621,6 +621,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 97: March 14, 2021
+
+**Today's Progress**: Today I was testing with supertest. My api was made with Node/Express/Mongoose, it have been created on the fullstack JavaScript path of The Odin's Project.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
