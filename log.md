@@ -585,6 +585,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 91: March 8, 2021
+
+**Today's Progress**: Today I was learning to work with Weather external API at JavaScript Basics of The Odin's Project Fullstack JavaScript Path.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
