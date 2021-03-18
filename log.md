@@ -591,6 +591,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 92: March 9, 2021
+
+**Today's Progress**: Learning more about Lifecycle methods in React module of The Odin Project Full Stack JavaScript path.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
