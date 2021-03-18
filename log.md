@@ -615,6 +615,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 96: March 13, 2021
+
+**Today's Progress**: Today I was trying to understand how to start make tests with SuperTest, it is superagent based, but I don't fully understand how it works yet.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
