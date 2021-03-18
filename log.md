@@ -579,6 +579,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 90: March 7, 2021
+
+**Today's Progress**: Today I was learning more about linting and webpack.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
