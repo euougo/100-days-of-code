@@ -603,6 +603,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 94: March 11, 2021
+
+**Today's Progress**: Today I've been trying to make SQLite to work with a react to-do simple App.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
