@@ -627,6 +627,12 @@
 
 **Thoughts**: Good day, stay strong.
 
+### Day 98: March 15, 2021
+
+**Today's Progress**: Today I was learning more about express templates.
+
+**Thoughts**: Good day, stay strong.
+
 
 
 
